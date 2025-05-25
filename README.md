@@ -8,6 +8,9 @@ Sends an e-mail when a Raspberry Pi device boots.
 ## [Check IP Changes](check_ip_changes)
 Checks if the IP addresses of a given machine in a dynamic IPs network have changed. It sends e-mails if a change is detected.
 
+## [Download Manager](download_manager)
+Download files from an specified list of urls.
+
 ## [Disk Monitor](disk_monitor)
 Monitor the disk (SD Card) usage of a Raspberry Pi. It sends warning e-mails when the usage is above a threshold level and remove logs and reboot the device if above a critical level.
 
