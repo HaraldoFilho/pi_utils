@@ -1,0 +1,27 @@
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          boot-mail
+# Required-Start:
+# Required-Stop:
+# Default-Start:     2 3 5
+# Default-Stop:
+# Short-Description: Boot mail
+# Description: Sends an e-mail when device finishs booting
+### END INIT INFO
+
+RUN_DIR="/home/pi/pi_utils/boot_mail"
+
+case "$1" in
+  start)
+
+    sleep 60
+    $RUN_DIR/boot-mail.sh
+
+    ;;
+
+  *)
+    break
+    ;;
+
+esac
+
