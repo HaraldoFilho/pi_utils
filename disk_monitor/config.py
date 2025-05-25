@@ -8,5 +8,5 @@
 
 MON_PERIOD       = 1
 MON_INTERVAL     = 600
-USAGE_HIGH       = 75
+USAGE_HIGH       = 70
 USAGE_CRITICAL   = 90
