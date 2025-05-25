@@ -10,8 +10,8 @@ To install the script, login as **_pi_** and execute the following commands:
 
 ```
 cd /home/pi
-git clone https://github.com/HaraldoFilho/disk_monitor.git
-cd disk_monitor
+git clone https://github.com/HaraldoFilho/pi_utils.git
+cd pi_utils/disk_monitor
 ./install.sh
 ```
 

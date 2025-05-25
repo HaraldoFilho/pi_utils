@@ -7,9 +7,9 @@ These are scripts to check if the IP addresses of a given machine in a dynamic I
 In a linux terminal, execute the following commands:
 
 ```
-cd ~
-git clone https://github.com/HaraldoFilho/check_ip_changes.git
-cd check_ip_changes
+cd /home/pi
+git https://github.com/HaraldoFilho/pi_utils.git
+cd pi_utils/check_ip_changes
 mv _config.sh config.sh
 
 ```

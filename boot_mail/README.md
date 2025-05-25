@@ -10,8 +10,8 @@ To install the script, login as **_pi_** and execute the following commands:
 
 ```
 cd /home/pi
-git clone https://github.com/HaraldoFilho/boot_mail.git
-cd boot_mail
+git clone https://github.com/HaraldoFilho/pi_utils.git
+cd pi_utils/boot_mail
 ./install.sh
 ```
 

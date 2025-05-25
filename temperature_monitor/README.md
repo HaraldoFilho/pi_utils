@@ -18,8 +18,8 @@ To install the script, login as **_pi_** and execute the following commands:
 
 ```
 cd /home/pi
-git clone https://github.com/HaraldoFilho/temperature_monitor.git
-cd temperature_monitor
+git clone https://github.com/HaraldoFilho/pi_utils.git
+cd pi_utils/temperature_monitor
 ./install.sh
 ```
 
