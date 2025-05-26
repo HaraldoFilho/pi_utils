@@ -20,7 +20,7 @@ Open the file _config.sh_ for edit and include the _from_ and _to_ e-mail addres
 
 ## Usage
 
-There are three scripts to run:
+There are two scripts to run:
 
 - **check_private_ip_change.sh**: Used to check, in a private dynamic IPs network, if the IP address assigned to the machine by the router has changed.
 - **check-public-ip-change.sh**: Used to check if the IP address assigned to the machine or router by the ISP has changed.
