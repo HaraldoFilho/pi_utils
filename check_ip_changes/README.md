@@ -24,7 +24,6 @@ There are three scripts to run:
 
 - **check_private_ip_change.sh**: Used to check, in a private dynamic IPs network, if the IP address assigned to the machine by the router has changed.
 - **check-public-ip-change.sh**: Used to check if the IP address assigned to the machine or router by the ISP has changed.
-- **check-ip-changes.sh**: Run the two scripts when both internal and external networks have dynamic IPs.
 
 The scripts don't provide any output in the terminal, if a change has been detected an e-mail will be sent with the new IP.
 
